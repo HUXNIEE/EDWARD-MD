@@ -32,7 +32,7 @@ function start(file) {
   setupMaster({ exec: args[0], args: args.slice(1) })
   let p = fork()
   p.on('message', data => {
-    console.log('[✅RECEIVED]', data)
+    console.log('[ᴇᴅᴡᴀʀᴅ ʙᴏᴛ ɪs ʀᴜɴɴɪɴɢ ✅]', data)
     switch (data) {
       case 'reset':
         p.process.kill()

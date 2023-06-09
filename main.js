@@ -1,8 +1,5 @@
 /* If You Copy, Don`t Delete This Credit!!! 
-  Don`t Sell This Script Or I Take Immediately 
-  Yang Jual Script Ini Report/Hangusin Aja Akunnya Atau Pukulin ae orangnya
-  Fix Doesn't Show QrCode & Multi Auth State
-  Regards from YanXiao ♡
+ ©2023 ʜᴜsɴɪ
 */
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 import './config.js'
@@ -98,7 +95,7 @@ global.authFolder = storeSys.fixFileName(`${opts._[0] || ''}sessions`)
     let { version, isLatest } = await fetchLatestBaileysVersion()
     console.log(`using WA v${version.join('.')}, isLatest: ${isLatest}`)
 /*const store = storeSys.makeInMemoryStore()
-const sess = `${opts._[0] || 'elaina'}.store.json`
+const sess = `${opts._[0] || 'ᗴᗞᗯᗩᖇᗞ'}.store.json`
 store.readFromFile(sess)
 global.store = store*/
 
@@ -106,7 +103,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['Elaina(イレイナ)', 'Safari', '3.1.0'], 
+        browser: ['ᴇᴅᴡᴀʀᴅ'ʙʏ ʜᴜsɴɪ', 'Safari', '3.1.0'], 
 getMessage: async (key) => (store.loadMessage(key.remoteJid, key.id) || store.loadMessage(key.id) || {}).message,
 // get message diatas untuk mengatasi pesan gagal dikirim, "menunggu pesan", dapat dicoba lagi
 	      patchMessageBeforeSending: (message) => {
@@ -174,12 +171,12 @@ function clearSessions(folder = 'sessions') {
 async function connectionUpdate(update) {
     const { receivedPendingNotifications, connection, lastDisconnect, isOnline, isNewLogin } = update
   if (isNewLogin) conn.isInit = true
-  if (connection == 'connecting') console.log(chalk.redBright('⚡ Mengaktifkan Bot, Mohon tunggu sebentar...'))
-  if (connection == 'open') console.log(chalk.green('✅ Tersambung'))
+  if (connection == 'connecting') console.log(chalk.redBright('ᴄᴏɴɴᴇᴄᴛɪɴɢ...❗'))
+  if (connection == 'open') console.log(chalk.green('ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ '))
   if (isOnline == true) console.log(chalk.green('Status Aktif'))
   if (isOnline == false) console.log(chalk.red('Status Mati'))
-  if (receivedPendingNotifications) console.log(chalk.yellow('Menunggu Pesan Baru'))
-  if (connection == 'close') console.log(chalk.red('⏱️ koneksi terputus & mencoba menyambung ulang...'))
+  if (receivedPendingNotifications) console.log(chalk.yellow('W8'))
+  if (connection == 'close') console.log(chalk.red('ᴄʟᴏsᴇᴅ🛑'))
   global.timestamp.connect = new Date
   if (lastDisconnect && lastDisconnect.error && lastDisconnect.error.output && lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut && conn.ws.readyState !== CONNECTING) {
     console.log(global.reloadHandler(true))
@@ -215,18 +212,18 @@ global.reloadHandler = async function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '❖━━━━━━[ ᴡᴇʟᴄᴏᴍᴇ ]━━━━━━❖\n\n┏––––––━━━━━━━━•\n│☘︎ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hallo @user)\n├[ ɪɴᴛʀᴏ ]—\n│ ɴᴀᴍᴀ: \n│ ᴜᴍᴜʀ: \n│ ɢᴇɴᴅᴇʀ:\n┗––––––━━┅┅┅\n\n––––––┅┅ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ┅┅––––––\n@desc'
-  conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\n𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 @user 👋😃'
-  conn.spromote = '@user Sekarang jadi admin!'
-  conn.sdemote = '@user Sekarang bukan lagi admin!'
-  conn.sDesc = 'Deskripsi telah diubah menjadi \n@desc'
-  conn.sSubject = 'Judul grup telah diubah menjadi \n@subject'
-  conn.sIcon = 'Icon grup telah diubah!'
-  conn.sRevoke = 'Link group telah diubah ke \n@revoke'
-  conn.sAnnounceOn = 'Group telah di tutup!\nsekarang hanya admin yang dapat mengirim pesan.'
-  conn.sAnnounceOff = 'Group telah di buka!\nsekarang semua peserta dapat mengirim pesan.'
-  conn.sRestrictOn = 'Edit Info Grup di ubah ke hanya admin!'
-  conn.sRestrictOff = 'Edit Info Grup di ubah ke semua peserta!'
+  conn.welcome = '❖━━━━━━[ ᴡᴇʟᴄᴏᴍᴇ ]━━━━━━❖\n\n┏––––––━━━━━━━━•\n│☘︎ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hallo @user)\n├[ ɪɴᴛʀᴏ ]—\n│ ɴᴀᴍᴇ: \n│ ᴜᴍᴜʀ: \n│ ɢᴇɴᴅᴇʀ:\n┗––––––━━┅┅┅\n\n––––––┅┅ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ┅┅––––––\n@desc'
+  conn.bye = '❖━━━━━[ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nPODA @user POYI PADIKKADA 👋'
+  conn.spromote = '@user ᴜʀ ɴᴏᴡ ᴀᴅᴍɪɴ😍'
+  conn.sdemote = '@user ᴜʀ ɴᴏ ʟᴏɴɢᴇʀ ᴀᴅᴍɪɴ🛑'
+  conn.sDesc = 'ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ʜᴀs ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ ᴛᴏ \n@desc'
+  conn.sSubject = 'ɢʀᴏᴜᴘ ᴛɪᴛʟᴇ ʜᴀs ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ ᴛᴏ  \n@subject'
+  conn.sIcon = '📢ᴛʜᴇ ɢʀᴏᴜᴘ ɪᴄᴏɴ ʜᴀs ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ'
+  conn.sRevoke = 'ɢʀᴏᴜᴘ ʟɪɴᴋ ʜᴀs ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ ᴛᴏ \n@revoke'
+  conn.sAnnounceOn = 'ᴛʜᴇ ɢʀᴏᴜᴘ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ! \nɴᴏᴡ ᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ sᴇɴᴅ ᴍᴇssᴀɢᴇs.'
+  conn.sAnnounceOff = 'ɢʀᴏᴜᴘ ʜᴀs ʙᴇᴇɴ ᴏᴘᴇɴᴇᴅ! \nɴᴏᴡ ᴀʟʟ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛs ᴄᴀɴ sᴇɴᴅ ᴍᴇssᴀɢᴇs.'
+  conn.sRestrictOn = 'ᴇᴅɪᴛ ɢʀᴏᴜᴘ ɪɴғᴏ ᴄʜᴀɴɢᴇᴅ ᴛᴏ ᴀᴅᴍɪɴ ᴏɴʟʏ!'
+  conn.sRestrictOff = 'ᴇᴅɪᴛ ɢʀᴏᴜᴘ ɪɴғᴏ ᴄʜᴀɴɢᴇᴅ ᴛᴏ ᴀʟʟ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛs!'
 
   conn.handler = handler.handler.bind(global.conn)
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn)
@@ -334,11 +331,11 @@ async function _quickTest() {
     }
 
     if (s.ffmpeg && !s.ffmpegWebp) {
-        conn.logger.warn('Sticker Mungkin Tidak Beranimasi tanpa libwebp di ffmpeg (--enable-ibwebp while compiling ffmpeg)')
+        conn.logger.warn('Sticker May Not Animate without libwebp in ffmpeg (--enable-ibwebp while compiling ffmpeg)')
     }
 
     if (!s.convert && !s.magick && !s.gm) {
-        conn.logger.warn('Fitur Stiker Mungkin Tidak Bekerja Tanpa imagemagick dan libwebp di ffmpeg belum terinstall (pkg install imagemagick)')
+        conn.logger.warn('Sticker Feature May Not Work Without imagemagick and libwebp in ffmpeg not installed (pkg install imagemagick)')
     }
 
 }

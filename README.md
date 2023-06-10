@@ -1,35 +1,26 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/fa4004b8a58005678a382.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-## PENTING
-
-> **Warning**: Jangan Memperjual Belikan Script Ini. 
-
-<h1 align="center">ElainaBOT - MD</h1>
-<p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
-</p>
 
 <p align="center">
- <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="EDWARD-MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HUXNIEE "><img title="Author" src="https://img.shields.io/badge/AUTHOR-HUSNI-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
-## ```Contact Me 💌``` 
-  <a href="https://wa.me/6285736178354">
+## ```ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ``` 
+  <a href="https://wa.me/9567749726">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:yanxiao021@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="50px" src="https://github.com/EDWARD-OFC/Elaina-MultiDevice/blob/master/media/images__10_-removebg-preview.png" />
+  <a href="instagram.com/edward.efx">
+    <img align="left" alt="SIEGRIN | Instagram" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg />
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3584573988413) 
 ---------
 
 ### a little about this bot
@@ -51,12 +42,8 @@
 - ✔️ | Tools 
 ---------
  
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+[![Run on Repl.it](https://repl.it/badge/github/HUXNIEE /EDWARD-MD)](https://repl.it/github/HUXNIEE /EDWARD-MD)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -64,8 +51,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-$ cd Elaina-MultiDevice
+$ git clone https://github.com/HUXNIEE /EDWARD-MD
+$ cd EDWARD-MD
 $ npm i 
 ```
 If error try using yarn instead of npm
@@ -97,14 +84,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & ELAINABOT-MD]
+[ INSTALLING NODEJS & EDWARD-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/HUXNIEE /EDWARD-MD
+cd EDWARD-MD
 npm install
 npm update
 ```
@@ -119,8 +106,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/HUXNIEE /EDWARD-MD
+cd EDWARD-MD
 npm install
 npm update
 ```
@@ -199,21 +186,5 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Don't use this repository wrong!
-4. If you have problem chat me in owner number
 
----------
 
-## ```Thanks to ✨```
-* [`Allah SWT`]
-* [`My parents`]
-* [`All Friends`]
-* [`All Contributors`]
-* [`All Creator Bot`]
-* [`Adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`Fokus ID`](https://github.com/Fokusdotid) 

@@ -25,7 +25,7 @@
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:yanxiao021@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/EDWARD-OFC/Elaina-MultiDevice/blob/master/media/images__10_-removebg-preview.png" />
   </a> &nbsp;&nbsp;
 ---------
 

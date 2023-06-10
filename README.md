@@ -18,32 +18,47 @@
   <a href="https://instagram.com/edward.efx">
     <img align="left" alt="SIEGRIN | Instagram" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
----------
+
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3584573988413) 
 ---------
 
 ### a little about this bot
-- ✔️ | **Simple** 
-- ✔️ | **Button Template** 
-- ✔️ | **Multi Device** 
-- ✔️ | **Button Document(Experiment)** 
+- ✔️ | **sɪᴍᴘʟᴇ** 
+
+- ✔️ | **ʙᴜᴛᴛᴏɴ ᴛᴇᴍᴘʟᴀᴛᴇ** 
+
+- ✔️ | **ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ** 
+
+- ✔️ | **ʙᴜᴛᴛᴏɴ ᴅᴏᴄᴜᴍᴇɴᴛ(ᴇxᴘᴇʀɪᴍᴇɴᴛ)** 
+
 ---------
-### Some of the features include
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Game & Rpg Game
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
+
+### sᴏᴍᴇ ᴏғ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ɪɴᴄʟᴜᴅᴇ
+
+- ✔️ | ᴍᴇɴғᴇss
+
+- ✔️ | ᴀɴᴛɪᴄᴀʟʟ
+
+- ✔️ | ɢᴀᴍᴇ & ʀᴘɢ ɢᴀᴍᴇ
+
+- ✔️ | ɴsғᴡ 
+
+- ✔️ | sᴛɪᴄᴋᴇʀ 
+
+- ✔️ | ᴋᴇʀᴀɴɢ ᴀᴊᴀɪʙ 
+
+- ✔️ | ϙᴜᴏᴛᴇs
+
+- ✔️ | ᴀɴɪᴍᴇ 
+
+- ✔️ | ᴘʀᴇᴍɪᴜᴍ 
+
+- ✔️ | ᴛᴏᴏʟs 
 ---------
  
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/HUXNIEE /EDWARD-MD)](https://repl.it/github/HUXNIEE /EDWARD-MD)
+[![Run on Repl.it](https://repl.it/badge/github/HUXNIEE/EDWARD-MD)](https://repl.it/github/HUXNIEE /EDWARD-MD)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update

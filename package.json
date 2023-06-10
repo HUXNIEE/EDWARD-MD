@@ -1,7 +1,7 @@
 {
-    "name": "Elaina-BOT",
+    "name": "EDWARD-MD",
     "version": "5.0.0",
-    "description": "RPG BOT Whatsapp",
+    "description": "EDWARD-MD BOT Whatsapp",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/ImYanXiao/Elaina-MultiDevice",
+    "homepage": "https://github.com/HUXNIEE/EDWARD-MD",
     "author": {
-        "name": "ImYanXiao"
+        "name": "HUXNIEE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ImYanXiao/Elaina-MultiDevice.git"
+        "url": "git+https://github.com/HUXNIEE/EDWARD-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/ImYanXiao/Elaina-MultiDevice/issues"
+        "url": "https://github.com/HUXNIEE/EDWARD-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

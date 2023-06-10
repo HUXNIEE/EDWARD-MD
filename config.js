@@ -33,7 +33,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // ᴄʀᴇᴅɪᴛs ᴇᴅᴡᴀʀᴅ
 global.sig = 'https://instagram.com/huxniee' //Link 📌Instagram
-global.sgh = 'https://github.com/EDWARD-OFC' //Link 📌Github
+global.sgh = 'https://github.com/HUXNIEE' //Link 📌Github
 global.sgc = 'https://chat.whatsapp.com/LsoPavP3U5dCIzwnzLjLNF'
 global.sdc = '-' //ᴄʀᴇᴅɪᴛs ᴇᴅᴡᴀʀᴅ
 

@@ -15,7 +15,7 @@
   <a href="https://wa.me/9567749726">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="instagram.com/edward.efx">
+  <a href="https://instagram.com/edward.efx">
     <img align="left" alt="SIEGRIN | Instagram" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg />
   </a> &nbsp;&nbsp;
 ---------

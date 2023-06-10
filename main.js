@@ -103,7 +103,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['ᴇᴅᴡᴀʀᴅ'ʙʏ ʜᴜsɴɪ', 'Safari', '3.1.0'], 
+        browser: ['ᴇᴅᴡᴀʀᴅ ʙʏ ʜᴜsɴɪ', 'Safari', '3.1.0'], 
 getMessage: async (key) => (store.loadMessage(key.remoteJid, key.id) || store.loadMessage(key.id) || {}).message,
 // get message diatas untuk mengatasi pesan gagal dikirim, "menunggu pesan", dapat dicoba lagi
 	      patchMessageBeforeSending: (message) => {
